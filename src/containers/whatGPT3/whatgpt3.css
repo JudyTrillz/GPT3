@@ -36,7 +36,6 @@
   font-weight: 800;
   font-size: 2.125rem;
   line-height: 45px;
-
   max-width: 510px;
 }
 
@@ -88,19 +87,32 @@
   }
 
   .gpt3__whatGpt3-heading h1 {
-    font-size: 28px;
+    font-size: 1.75rem;
     line-height: 40px;
+  }
+
+  .gpt3__whatGpt3-container .gpt3__features-container__feature {
+    min-width: none;
+  }
+
+  .gpt3__whatGpt3-container .gpt3__features-container__feature {
+    /* CHANGED THE WIN-WIDTH TO 100% TO REMOVE OVERFLOWING ON MEDIUM-M SMALLER DEVICES */
+    min-width: 100%;
   }
 }
 
 @media screen and (max-width: 350px) {
   .gpt3__whatGpt3-container .gpt3__features-container__feature {
     margin: 1rem 0;
-    min-width: 100%;
   }
 
   .gpt3__whatGpt3-heading p {
     margin-top: 1rem;
     margin-right: 2rem;
+  }
+
+  .gpt3__whatGpt3-heading h1 {
+    font-size: 1rem;
+    line-height: 30px;
   }
 }

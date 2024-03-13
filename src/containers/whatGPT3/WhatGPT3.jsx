@@ -26,19 +26,19 @@ const Whatgpt3 = () => {
         <Feature
           title={"Chat Bots"}
           text={
-            "We so opinion friends me message as delight. Whole front do of plate heard oh ought. "
+            "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error optio mollitia nam laborum beatae cumque quasi inventore magnam in assumenda."
           }
         />
         <Feature
           title={"Knowledge Base"}
           text={
-            "At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+            "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error optio mollitia nam laborum beatae cumque quasi inventore magnam in assumenda."
           }
         />
         <Feature
           title={"Education"}
           text={
-            "At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+            "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error optio mollitia nam laborum beatae cumque quasi inventore magnam in assumenda."
           }
         />
       </div>
